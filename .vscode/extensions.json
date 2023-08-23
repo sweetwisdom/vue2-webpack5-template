@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "naumovs.color-highlight",
+    "irongeek.vscode-env",
+    "esbenp.prettier-vscode",
+    "vue.volar",
+    "Vue.vscode-typescript-vue-plugin",
+    "shenjiaolong.vue-helper",
+    "mariusalchimavicius.json-to-ts",
+    "formulahendry.auto-rename-tag",
+    "steoates.autoimport"
+  ]
+}
